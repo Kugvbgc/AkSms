@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687535751872",
+    "project_id": "aksms-d232f",
+    "storage_bucket": "aksms-d232f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687535751872:android:b70cadc13bab0b142fe325",
+        "android_client_info": {
+          "package_name": "com.khair.aksms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXs7ZyeCslAUwJpVJnLIOr2PY0Z8LNnb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
